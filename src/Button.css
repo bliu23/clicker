@@ -1,0 +1,16 @@
+.btn {
+    width: 200px;;
+    line-height: 100px;
+    outline: none;
+    border: 5px solid black;
+    color: white;
+    font-size: 30px;
+}
+
+.Yes{
+    background: green;
+}
+
+.No {
+    background: red;
+}
